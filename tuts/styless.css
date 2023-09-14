@@ -1,0 +1,96 @@
+body{
+    background-image: url(img/bg2.jpg) !important;
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+
+h2{
+    margin-top: 25%;
+}
+
+h3{
+    color: white !important;
+    font-weight: 800px;
+    background-color: black;
+    margin-top: 4%;
+    margin-bottom: -3%;
+    padding: 4px 8px;
+    border-radius: 30px;
+    width: 25%;
+    margin-left: 38%;
+    border: 3px solid red;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+
+.display{
+    background-color: rgba(0, 0, 0, 0.644);
+    color: red;
+}
+
+h4{
+    color: rgb(12, 228, 12) !important;
+}
+
+h6{
+    color: white;
+    text-decoration: line-through;
+   /* width: 30%;
+    border: 1px solid white;
+    backgrond-color: black;
+    padding: 2px 2px;
+    margin-left: 35%;
+    border-radius: 20px;
+    margin-top: 7%;
+    margin-bottom: 0%;
+    */
+}
+
+ul{
+    color: red;
+    font-weight: 600;
+}
+
+
+.card a{
+    text-decoration: none;
+    font-weight: 600;
+    color: white!important;
+    background-color: red;
+    border: 1px solid white;
+    padding: 2px 5px;
+    border-radius: 10px;
+}
+
+.card a:hover{
+    background-color: black;
+    color: red!important;
+}
+
+
+.card-content{
+    border: 2px solid white;
+}
+
+.card-action{
+    border: 2px solid  red!important;
+}
+
+
+.pizza{
+    width: 62%;
+    margin: 40px auto -80px;
+    display: block;
+    position: relative;
+    top: 30px;
+    z-index: 100;
+  }
+
+
+
+

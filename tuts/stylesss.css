@@ -1,0 +1,31 @@
+body{
+    background-image: url(templates/home.webp)!important;
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+
+.show{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    background-color: rgba(0, 0, 0, 0.747);
+    max-width: 35%;
+    border-radius: 20px;
+    padding: 3% 1%;
+    color: red;
+    border: 1px solid white;
+}
+
+p{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+h4{
+    color: white;
+}
+
+span{
+    color: white;
+}
