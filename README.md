@@ -1,5 +1,3 @@
-# pizza_management-side_website
-A website for an for the managing side of a pizza ordering company where the manager can add new pizzas, delete non-available ones and display more info about the available one
 # Pizza Management Website
 
 This is a pizza management website that allows pizza shop managers to add new pizzas, delete non-available ones, and display more information about the available pizzas. The website is built using HTML, Materialize CSS for the frontend, and PHP for the backend.
